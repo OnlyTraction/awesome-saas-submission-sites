@@ -29,7 +29,7 @@ If you find this useful, a ⭐ helps others discover it.
 
 - **[Serchen](https://serchen.com)** _(DR 70, 62.3K traffic)_ — Cloud services and SaaS directory
 - **[SaaSpo](https://saaspo.com)** _(DR 56)_ — SaaS design inspiration directory
-- **[SaaSCity](https://saascity.io)** _(DR 59)_ — Gamified SaaS directory rendered as an isometric city map
+- **[SaaSCity](https://saascity.io)** _(DR 64)_ — Gamified SaaS directory rendered as an isometric city map
 - **[Saaspa.ge](https://saaspa.ge)** _(DR 36)_ — SaaS launch directory
 - **[Productivity Directory](https://productivity.directory)** _(DR 27, 67.5K traffic)_ — SaaS directory
 - **[Once Tools](https://once.tools)** _(DR 14, 1.5K traffic)_ — One-time purchase software directory

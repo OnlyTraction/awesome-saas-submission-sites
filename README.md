@@ -41,6 +41,7 @@ If you find this useful, a ⭐ helps others discover it.
 - **[SaaSHub](https://saashub.com)** — SaaS product listing
 - **[Saassy Board](https://saassy.app)** — SaaS product listing
 - **[GetApp](https://www.getapp.com)** — Gartner-owned software discovery platform
+- **[SitePatent](https://sitepatent.com/)** — Startup and tool directory by category and tech stack; free with a homepage badge, paid from $19
 
 ## 🛠️ Developer-Focused Directories
 
